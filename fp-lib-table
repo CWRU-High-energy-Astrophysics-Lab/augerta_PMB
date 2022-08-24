@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "lm2596")(type "KiCad")(uri "${KIPRJMOD}/libary/DC_DC_LM2596_small.pretty")(options "")(descr ""))
   (lib (name "libary")(type "KiCad")(uri "${KIPRJMOD}/libary")(options "")(descr ""))
+  (lib (name "cit")(type "KiCad")(uri "${KIPRJMOD}/libary/cit.pretty")(options "")(descr ""))
 )

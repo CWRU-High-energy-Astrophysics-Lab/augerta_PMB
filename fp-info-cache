@@ -1,4 +1,4 @@
-20116989561006103
+20118650000991687
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85602,6 +85602,13 @@ varistor SIOV
 0
 2
 2
+cit
+Relay_J107F
+
+
+0
+5
+5
 libary
 MODULE_ESP32-DEVKITC-32D
 
