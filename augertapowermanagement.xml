@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/media/robin/CLFTANK1014/augertapowermanagement/augertapowermanagement.kicad_sch</source>
-    <date>Tue 02 Aug 2022 01:09:13 PM EDT</date>
+    <source>/home/robin/Documents/augerta_PMB/augertapowermanagement.kicad_sch</source>
+    <date>Fri 26 Aug 2022 01:56:05 PM EDT</date>
     <tool>Eeschema 6.0.2+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -45,7 +45,11 @@
     <comp ref="C2">
       <value>0.1</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/kemet/CDR33BX104AKUR7370/2657815</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/kemet/CDR33BX104AKUR7370/2657815"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -54,7 +58,11 @@
     <comp ref="J1">
       <value>Screw_Terminal_01x02</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/cui-devices/TB009-508-02BE/10064151</field>
+      </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/cui-devices/TB009-508-02BE/10064151"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -67,6 +75,7 @@
         <field name="MANUFACTURER">Molex</field>
         <field name="MAXIMUM_PACKAGE_HEIGHT">21.5 mm</field>
         <field name="PARTREV">D</field>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/molex/0768250002/5639611</field>
         <field name="STANDARD">Manufacturer Recommendations</field>
       </fields>
       <libsource lib="powermanagement" part="0393800102" description=""/>
@@ -74,6 +83,7 @@
       <property name="MANUFACTURER" value="Molex"/>
       <property name="MAXIMUM_PACKAGE_HEIGHT" value="21.5 mm"/>
       <property name="PARTREV" value="D"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/molex/0768250002/5639611"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -83,7 +93,11 @@
       <value>USB_A_Stacked</value>
       <footprint>Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked</footprint>
       <datasheet> ~</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61400826021/2060603</field>
+      </fields>
       <libsource lib="Connector" part="USB_A_Stacked" description="USB Type A connector, stacked"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61400826021/2060603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -93,7 +107,11 @@
       <value>USB_A_Stacked</value>
       <footprint>Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked</footprint>
       <datasheet> ~</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61400826021/2060603</field>
+      </fields>
       <libsource lib="Connector" part="USB_A_Stacked" description="USB Type A connector, stacked"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61400826021/2060603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -103,7 +121,11 @@
       <value>USB_A_Stacked</value>
       <footprint>Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked</footprint>
       <datasheet> ~</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61400826021/2060603</field>
+      </fields>
       <libsource lib="Connector" part="USB_A_Stacked" description="USB Type A connector, stacked"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61400826021/2060603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -113,7 +135,11 @@
       <value>USB_A_Stacked</value>
       <footprint>Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked</footprint>
       <datasheet> ~</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61400826021/2060603</field>
+      </fields>
       <libsource lib="Connector" part="USB_A_Stacked" description="USB Type A connector, stacked"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61400826021/2060603"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -122,7 +148,11 @@
     <comp ref="J7">
       <value>Screw_Terminal_01x08</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/cui-devices/TB002V-500-08BE/10064083</field>
+      </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x08" description="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/cui-devices/TB002V-500-08BE/10064083"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -131,7 +161,11 @@
     <comp ref="J8">
       <value>Screw_Terminal_01x10</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/cui-devices/TB007-508-10BE/10064134</field>
+      </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x10" description="Generic screw terminal, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/cui-devices/TB007-508-10BE/10064134"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -140,7 +174,11 @@
     <comp ref="J9">
       <value>5v block</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-5-5.08_1x05_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/cui-devices/TB007-508-05BE/10064130</field>
+      </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x05" description="Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/cui-devices/TB007-508-05BE/10064130"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -149,7 +187,11 @@
     <comp ref="J10">
       <value>Screw_Terminal_01x10</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/cui-devices/TB007-508-10BE/10064134</field>
+      </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x10" description="Generic screw terminal, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/cui-devices/TB007-508-10BE/10064134"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -158,7 +200,11 @@
     <comp ref="J11">
       <value>Screw_Terminal_01x10</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/cui-devices/TB007-508-10BE/10064134</field>
+      </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x10" description="Generic screw terminal, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/cui-devices/TB007-508-10BE/10064134"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -167,7 +213,11 @@
     <comp ref="J12">
       <value>gnd block</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-5-5.08_1x05_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/cui-devices/TB007-508-05BE/10064130</field>
+      </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x05" description="Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/cui-devices/TB007-508-05BE/10064130"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -176,7 +226,11 @@
     <comp ref="JP1">
       <value>Jumper_2_Open</value>
       <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">NA, JUST pads</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Purchase" value="NA, JUST pads"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -185,54 +239,91 @@
     <comp ref="JP5">
       <value>Jumper_2_Open</value>
       <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">NA, JUST pads</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Purchase" value="NA, JUST pads"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>94034c37-7b26-417f-a611-c68fda56c0c1</tstamps>
     </comp>
-    <comp ref="Q1">
-      <value>IRF6623</value>
-      <footprint>Package_DirectFET:DirectFET_ST</footprint>
-      <datasheet>https://www.infineon.com/dgdl/irf6623pbf.pdf?fileId=5546d462533600a4015355e8aa811a2d</datasheet>
-      <libsource lib="Transistor_FET" part="IRF6623" description="55A Id, 20V Vds, 5.7mOhm Rds, N-Channel MOSFET, DirectFET ST"/>
+    <comp ref="K1">
+      <value>J107F1CS203VDC.80</value>
+      <footprint>cit:Relay_J107F</footprint>
+      <datasheet>https://www.citrelay.com/Catalog%20Pages/RelayCatalog/J107F.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/cit-relay-and-switch/J107F1CS203VDC-80/14001947</field>
+      </fields>
+      <libsource lib="Relay" part="DIPxx-1Cxx-51x" description="Standex Meder DIP reed relay, SPDT"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/cit-relay-and-switch/J107F1CS203VDC-80/14001947"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>7e930f8f-acd5-4738-9fea-951e7a59cfe1</tstamps>
+      <tstamps>1347a48f-a9f7-470c-893f-af03f52f8d81</tstamps>
     </comp>
-    <comp ref="Q2">
-      <value>IRF6623</value>
-      <footprint>Package_DirectFET:DirectFET_ST</footprint>
-      <datasheet>https://www.infineon.com/dgdl/irf6623pbf.pdf?fileId=5546d462533600a4015355e8aa811a2d</datasheet>
-      <libsource lib="Transistor_FET" part="IRF6623" description="55A Id, 20V Vds, 5.7mOhm Rds, N-Channel MOSFET, DirectFET ST"/>
+    <comp ref="K2">
+      <value>J107F1CS203VDC.80</value>
+      <footprint>cit:Relay_J107F</footprint>
+      <datasheet>https://www.citrelay.com/Catalog%20Pages/RelayCatalog/J107F.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/cit-relay-and-switch/J107F1CS203VDC-80/14001947</field>
+      </fields>
+      <libsource lib="" part="DIPxx-1Cxx-51x_1" description="Standex Meder DIP reed relay, SPDT"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/cit-relay-and-switch/J107F1CS203VDC-80/14001947"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>7b071b1e-4700-4f31-8ee5-d383ce73dc0b</tstamps>
+      <tstamps>0a607643-7cbe-40aa-8963-65165d337d58</tstamps>
     </comp>
     <comp ref="R1">
       <value>10k</value>
       <footprint>Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/vishay-dale/CRCW121010K0FKEAHP/2567282</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/vishay-dale/CRCW121010K0FKEAHP/2567282"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>848a1cc8-31f0-4a45-be9f-d79a58fdbaec</tstamps>
+      <tstamps>6a3d719c-7f6e-40e1-b5a1-d5e1e14ee2be</tstamps>
     </comp>
     <comp ref="R2">
       <value>10k</value>
       <footprint>Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/vishay-dale/CRCW121010K0FKEAHP/2567282</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/vishay-dale/CRCW121010K0FKEAHP/2567282"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>297daaed-b634-496f-bc8c-a101a7663ec5</tstamps>
     </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/vishay-dale/CRCW121010K0FKEAHP/2567282</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/vishay-dale/CRCW121010K0FKEAHP/2567282"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79e473c2-be40-47b5-98a0-0cdfaab19319</tstamps>
+    </comp>
     <comp ref="SW1">
       <value>SW_SPDT</value>
       <footprint>Button_Switch_THT:SW_CuK_OS102011MA1QN1_SPDT_Angled</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/c-k/OS102011MA1QN1/1981430</field>
+      </fields>
       <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/c-k/OS102011MA1QN1/1981430"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -241,7 +332,11 @@
     <comp ref="TP1">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -250,7 +345,11 @@
     <comp ref="TP3">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -259,7 +358,11 @@
     <comp ref="TP4">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -268,7 +371,11 @@
     <comp ref="TP5">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -277,7 +384,11 @@
     <comp ref="U1">
       <value>LM2596_5v</value>
       <footprint>lm2596:DC_DC_LM2596_small</footprint>
+      <fields>
+        <field name="Purchase">https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0</field>
+      </fields>
       <libsource lib="powermanagement" part="YAAJ_DCDC_StepDown_LM2596" description="module : adjustable step down module 3.2V-40V to 1.25V-35V 3A"/>
+      <property name="Purchase" value="https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -289,10 +400,12 @@
       <fields>
         <field name="MANUFACTURER">Espressif Systems</field>
         <field name="PARTREV">4</field>
+        <field name="Purchase">https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-DevKitC-32D?qs=%252BEew9%252B0nqrDsObWEpDx6YQ%3D%3D</field>
       </fields>
       <libsource lib="powermanagement" part="ESP32-DEVKITC-32D" description=""/>
       <property name="MANUFACTURER" value="Espressif Systems"/>
       <property name="PARTREV" value="4"/>
+      <property name="Purchase" value="https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-DevKitC-32D?qs=%252BEew9%252B0nqrDsObWEpDx6YQ%3D%3D"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -302,7 +415,11 @@
       <value>MCP9808_MSOP</value>
       <footprint>Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22203b.pdf</datasheet>
+      <fields>
+        <field name="Purchase">IN LAB</field>
+      </fields>
       <libsource lib="Sensor_Temperature" part="MCP9808_MSOP" description="+/-0.25C (+/-0.5C) Typical (Maximum), Digital Temperature Sensor, MSOP-8"/>
+      <property name="Purchase" value="IN LAB"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="augertapowermanagement.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -312,7 +429,11 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder</footprint>
       <datasheet>https://www.digikey.com/en/products/detail/kemet/CDR33BX104AKSS7370/3738766</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/kemet/CDR33BX104AKUR7370/2657815</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/kemet/CDR33BX104AKUR7370/2657815"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -321,7 +442,11 @@
     <comp ref="F1">
       <value>1210L900SLPR</value>
       <footprint>Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/littelfuse-inc/1210L900SLPR/12807029?s=N4IgTCBcDaIIxjgBgDIE4lIMooAoCUQBdAXyA</field>
+      </fields>
       <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/littelfuse-inc/1210L900SLPR/12807029?s=N4IgTCBcDaIIxjgBgDIE4lIMooAoCUQBdAXyA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -330,7 +455,11 @@
     <comp ref="F2">
       <value>1210L900SLPR</value>
       <footprint>Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/littelfuse-inc/1210L900SLPR/12807029?s=N4IgTCBcDaIIxjgBgDIE4lIMooAoCUQBdAXyA</field>
+      </fields>
       <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/littelfuse-inc/1210L900SLPR/12807029?s=N4IgTCBcDaIIxjgBgDIE4lIMooAoCUQBdAXyA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -339,7 +468,11 @@
     <comp ref="JP2">
       <value>Jumper_2_Open</value>
       <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">NA, JUST pads</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Purchase" value="NA, JUST pads"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -348,7 +481,11 @@
     <comp ref="JP3">
       <value>Jumper_2_Open</value>
       <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">NA, JUST pads</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Purchase" value="NA, JUST pads"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -357,7 +494,11 @@
     <comp ref="JP4">
       <value>Jumper_2_Open</value>
       <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">NA, JUST pads</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Purchase" value="NA, JUST pads"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -366,7 +507,11 @@
     <comp ref="JP6">
       <value>Jumper_2_Open</value>
       <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Horizontal</footprint>
+      <fields>
+        <field name="Purchase">NA, JUST pads</field>
+      </fields>
       <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Purchase" value="NA, JUST pads"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -375,7 +520,11 @@
     <comp ref="R3">
       <value>0.1</value>
       <footprint>Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -384,7 +533,11 @@
     <comp ref="R4">
       <value>0.1</value>
       <footprint>Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -393,7 +546,11 @@
     <comp ref="R5">
       <value>0.1</value>
       <footprint>Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -402,7 +559,11 @@
     <comp ref="R6">
       <value>0.1</value>
       <footprint>Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -411,7 +572,11 @@
     <comp ref="R7">
       <value>0.1</value>
       <footprint>Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -420,7 +585,11 @@
     <comp ref="R8">
       <value>0.1</value>
       <footprint>Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -429,7 +598,11 @@
     <comp ref="R9">
       <value>0.1</value>
       <footprint>Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -438,7 +611,11 @@
     <comp ref="R10">
       <value>0.1</value>
       <footprint>Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -447,7 +624,11 @@
     <comp ref="R11">
       <value>0.1</value>
       <footprint>Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -456,7 +637,11 @@
     <comp ref="R12">
       <value>3.3K</value>
       <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/yageo/RT2512FKE073K3L/5947596</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/yageo/RT2512FKE073K3L/5947596"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -465,7 +650,11 @@
     <comp ref="R13">
       <value>3.3K</value>
       <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/yageo/RT2512FKE073K3L/5947596</field>
+      </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/yageo/RT2512FKE073K3L/5947596"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -474,7 +663,11 @@
     <comp ref="R14">
       <value>0.1</value>
       <footprint>Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -483,7 +676,11 @@
     <comp ref="R15">
       <value>0.1</value>
       <footprint>Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA</field>
+      </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/rohm-semiconductor/GMR320HJCFAR100/14295624?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAFYAGSsSgZhAF0CAHAFyhAGU2AnASwB2AcxABfAgCZKADnIIQySOmz4ipcNQAEAWwDyACx1YmrDpBABVQfzZ6UAWRxosAV145xEkJI1YDroJsWh4mjGJAA"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -492,7 +689,11 @@
     <comp ref="TP6">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -501,7 +702,11 @@
     <comp ref="TP7">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -510,7 +715,11 @@
     <comp ref="TP8">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -519,7 +728,11 @@
     <comp ref="TP9">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -528,7 +741,11 @@
     <comp ref="TP10">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -537,7 +754,11 @@
     <comp ref="TP11">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -546,7 +767,11 @@
     <comp ref="TP12">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -555,7 +780,11 @@
     <comp ref="TP13">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -564,7 +793,11 @@
     <comp ref="TP14">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -573,7 +806,11 @@
     <comp ref="TP15">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -582,7 +819,11 @@
     <comp ref="TP16">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -591,7 +832,11 @@
     <comp ref="TP17">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -600,7 +845,11 @@
     <comp ref="TP18">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Plated_Hole_D2.0mm</footprint>
+      <fields>
+        <field name="Purchase">JUST PAD</field>
+      </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Purchase" value="JUST PAD"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -610,7 +859,11 @@
       <value>INA219AxD</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881</field>
+      </fields>
       <libsource lib="Analog_ADC" part="INA219AxD" description="Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -619,7 +872,11 @@
     <comp ref="U4">
       <value>LM2596_5v</value>
       <footprint>lm2596:DC_DC_LM2596_small</footprint>
+      <fields>
+        <field name="Purchase">https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0</field>
+      </fields>
       <libsource lib="powermanagement" part="YAAJ_DCDC_StepDown_LM2596" description="module : adjustable step down module 3.2V-40V to 1.25V-35V 3A"/>
+      <property name="Purchase" value="https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -628,7 +885,11 @@
     <comp ref="U5">
       <value>LM2596_5v</value>
       <footprint>lm2596:DC_DC_LM2596_small</footprint>
+      <fields>
+        <field name="Purchase">https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0</field>
+      </fields>
       <libsource lib="powermanagement" part="YAAJ_DCDC_StepDown_LM2596" description="module : adjustable step down module 3.2V-40V to 1.25V-35V 3A"/>
+      <property name="Purchase" value="https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -638,7 +899,11 @@
       <value>INA219AxD</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881</field>
+      </fields>
       <libsource lib="Analog_ADC" part="INA219AxD" description="Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -648,7 +913,11 @@
       <value>INA219AxD</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881</field>
+      </fields>
       <libsource lib="Analog_ADC" part="INA219AxD" description="Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -657,7 +926,11 @@
     <comp ref="U8">
       <value>LM2596_5v</value>
       <footprint>lm2596:DC_DC_LM2596_small</footprint>
+      <fields>
+        <field name="Purchase">https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0</field>
+      </fields>
       <libsource lib="powermanagement" part="YAAJ_DCDC_StepDown_LM2596" description="module : adjustable step down module 3.2V-40V to 1.25V-35V 3A"/>
+      <property name="Purchase" value="https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -666,7 +939,11 @@
     <comp ref="U9">
       <value>LM2596_5v</value>
       <footprint>lm2596:DC_DC_LM2596_small</footprint>
+      <fields>
+        <field name="Purchase">https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0</field>
+      </fields>
       <libsource lib="powermanagement" part="YAAJ_DCDC_StepDown_LM2596" description="module : adjustable step down module 3.2V-40V to 1.25V-35V 3A"/>
+      <property name="Purchase" value="https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -676,7 +953,11 @@
       <value>INA219AxD</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881</field>
+      </fields>
       <libsource lib="Analog_ADC" part="INA219AxD" description="Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -686,7 +967,11 @@
       <value>INA219AxD</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881</field>
+      </fields>
       <libsource lib="Analog_ADC" part="INA219AxD" description="Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -695,7 +980,11 @@
     <comp ref="U12">
       <value>LM2596_5v</value>
       <footprint>lm2596:DC_DC_LM2596_small</footprint>
+      <fields>
+        <field name="Purchase">https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0</field>
+      </fields>
       <libsource lib="powermanagement" part="YAAJ_DCDC_StepDown_LM2596" description="module : adjustable step down module 3.2V-40V to 1.25V-35V 3A"/>
+      <property name="Purchase" value="https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -704,7 +993,11 @@
     <comp ref="U13">
       <value>LM2596_5v</value>
       <footprint>lm2596:DC_DC_LM2596_small</footprint>
+      <fields>
+        <field name="Purchase">https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0</field>
+      </fields>
       <libsource lib="powermanagement" part="YAAJ_DCDC_StepDown_LM2596" description="module : adjustable step down module 3.2V-40V to 1.25V-35V 3A"/>
+      <property name="Purchase" value="https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -714,7 +1007,11 @@
       <value>INA219AxD</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881</field>
+      </fields>
       <libsource lib="Analog_ADC" part="INA219AxD" description="Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -724,7 +1021,11 @@
       <value>INA219AxD</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881</field>
+      </fields>
       <libsource lib="Analog_ADC" part="INA219AxD" description="Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -733,7 +1034,11 @@
     <comp ref="U16">
       <value>LM2596_11.5v</value>
       <footprint>lm2596:DC_DC_LM2596_small</footprint>
+      <fields>
+        <field name="Purchase">IN LAB</field>
+      </fields>
       <libsource lib="powermanagement" part="YAAJ_DCDC_StepDown_LM2596" description="module : adjustable step down module 3.2V-40V to 1.25V-35V 3A"/>
+      <property name="Purchase" value="IN LAB"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -742,7 +1047,11 @@
     <comp ref="U17">
       <value>LM2596_5v</value>
       <footprint>lm2596:DC_DC_LM2596_small</footprint>
+      <fields>
+        <field name="Purchase">https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0</field>
+      </fields>
       <libsource lib="powermanagement" part="YAAJ_DCDC_StepDown_LM2596" description="module : adjustable step down module 3.2V-40V to 1.25V-35V 3A"/>
+      <property name="Purchase" value="https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -752,7 +1061,11 @@
       <value>INA219AxD</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881</field>
+      </fields>
       <libsource lib="Analog_ADC" part="INA219AxD" description="Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -762,7 +1075,11 @@
       <value>INA219AxD</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881</field>
+      </fields>
       <libsource lib="Analog_ADC" part="INA219AxD" description="Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -771,7 +1088,11 @@
     <comp ref="U20">
       <value>LM2596_11.5v</value>
       <footprint>lm2596:DC_DC_LM2596_small</footprint>
+      <fields>
+        <field name="Purchase">IN LAB</field>
+      </fields>
       <libsource lib="powermanagement" part="YAAJ_DCDC_StepDown_LM2596" description="module : adjustable step down module 3.2V-40V to 1.25V-35V 3A"/>
+      <property name="Purchase" value="IN LAB"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -781,7 +1102,11 @@
       <value>INA219AxD</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881</field>
+      </fields>
       <libsource lib="Analog_ADC" part="INA219AxD" description="Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -790,7 +1115,11 @@
     <comp ref="U22">
       <value>LM2596_11.5v</value>
       <footprint>lm2596:DC_DC_LM2596_small</footprint>
+      <fields>
+        <field name="Purchase">IN LAB</field>
+      </fields>
       <libsource lib="powermanagement" part="YAAJ_DCDC_StepDown_LM2596" description="module : adjustable step down module 3.2V-40V to 1.25V-35V 3A"/>
+      <property name="Purchase" value="IN LAB"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -800,7 +1129,11 @@
       <value>INA219AxD</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881</field>
+      </fields>
       <libsource lib="Analog_ADC" part="INA219AxD" description="Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Purchase" value="https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881"/>
       <property name="Sheetname" value="power_conversion"/>
       <property name="Sheetfile" value="power_conversion.kicad_sch"/>
       <sheetpath names="/power_conversion/" tstamps="/8a8c373f-9bc3-4cf7-8f41-4802da916698/"/>
@@ -808,6 +1141,27 @@
     </comp>
   </components>
   <libparts>
+    <libpart lib="" part="DIPxx-1Cxx-51x_1">
+      <description>Standex Meder DIP reed relay, SPDT</description>
+      <docs>https://www.citrelay.com/Catalog%20Pages/RelayCatalog/J107F.pdf</docs>
+      <footprints>
+        <fp>Relay*StandexMeder*DIP*LowProfile*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K2</field>
+        <field name="Value">J107F1CS203VDC.80</field>
+        <field name="Footprint">cit:Relay_J107F</field>
+        <field name="Datasheet">https://www.citrelay.com/Catalog%20Pages/RelayCatalog/J107F.pdf</field>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/cit-relay-and-switch/J107F1CS203VDC-80/14001947</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="Analog_ADC" part="INA219AxD">
       <description>Zero-Drift, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8</description>
       <docs>http://www.ti.com/lit/ds/symlink/ina219.pdf</docs>
@@ -1034,6 +1388,27 @@
         <pin num="2" name="B" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="Relay" part="DIPxx-1Cxx-51x">
+      <description>Standex Meder DIP reed relay, SPDT</description>
+      <docs>https://www.citrelay.com/Catalog%20Pages/RelayCatalog/J107F.pdf</docs>
+      <footprints>
+        <fp>Relay*StandexMeder*DIP*LowProfile*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K1</field>
+        <field name="Value">J107F1CS203VDC.80</field>
+        <field name="Footprint">cit:Relay_J107F</field>
+        <field name="Datasheet">https://www.citrelay.com/Catalog%20Pages/RelayCatalog/J107F.pdf</field>
+        <field name="Purchase">https://www.digikey.com/en/products/detail/cit-relay-and-switch/J107F1CS203VDC-80/14001947</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="Sensor_Temperature" part="MCP9808_MSOP">
       <description>+/-0.25C (+/-0.5C) Typical (Maximum), Digital Temperature Sensor, MSOP-8</description>
       <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/22203b.pdf</docs>
@@ -1069,24 +1444,6 @@
         <pin num="1" name="A" type="passive"/>
         <pin num="2" name="B" type="passive"/>
         <pin num="3" name="C" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Transistor_FET" part="IRF6623">
-      <description>55A Id, 20V Vds, 5.7mOhm Rds, N-Channel MOSFET, DirectFET ST</description>
-      <docs>https://www.infineon.com/dgdl/irf6623pbf.pdf?fileId=5546d462533600a4015355e8aa811a2d</docs>
-      <footprints>
-        <fp>DirectFET*ST*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">Q</field>
-        <field name="Value">IRF6623</field>
-        <field name="Footprint">Package_DirectFET:DirectFET_ST</field>
-        <field name="Datasheet">https://www.infineon.com/dgdl/irf6623pbf.pdf?fileId=5546d462533600a4015355e8aa811a2d</field>
-      </fields>
-      <pins>
-        <pin num="1" name="D" type="passive"/>
-        <pin num="2" name="G" type="input"/>
-        <pin num="3" name="S" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="powermanagement" part="0393800102">
@@ -1180,17 +1537,17 @@
     <library logical="Jumper">
       <uri>/usr/share/kicad/symbols//Jumper.kicad_sym</uri>
     </library>
+    <library logical="Relay">
+      <uri>/usr/share/kicad/symbols//Relay.kicad_sym</uri>
+    </library>
     <library logical="Sensor_Temperature">
       <uri>/usr/share/kicad/symbols//Sensor_Temperature.kicad_sym</uri>
     </library>
     <library logical="Switch">
       <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
     </library>
-    <library logical="Transistor_FET">
-      <uri>/usr/share/kicad/symbols//Transistor_FET.kicad_sym</uri>
-    </library>
     <library logical="powermanagement">
-      <uri>/media/robin/CLFTANK1014/augertapowermanagement/powermanagement.kicad_sym</uri>
+      <uri>/home/robin/Documents/augerta_PMB/powermanagement.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -1198,7 +1555,7 @@
       <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="Q1" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="K2" pin="7" pintype="passive"/>
       <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="Vin" pintype="power_in"/>
     </net>
@@ -1228,7 +1585,11 @@
       <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J7" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J7" pin="8" pinfunction="Pin_8" pintype="passive"/>
-      <node ref="SW1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="K1" pin="2" pintype="passive"/>
+      <node ref="K2" pin="6" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U10" pin="2" pinfunction="A0" pintype="input"/>
@@ -1337,7 +1698,7 @@
       <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="JP6" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="K1" pin="1" pintype="passive"/>
       <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="10" name="/power_conversion/netpw">
@@ -1408,8 +1769,8 @@
       <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J9" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J9" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="R1" pin="1" pintype="passive"/>
-      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="4" pinfunction="Vout" pintype="power_out"/>
       <node ref="U2" pin="19" pinfunction="EXT_5V" pintype="power_in"/>
@@ -1556,8 +1917,8 @@
     <net code="50" name="Net-(JP1-Pad1)">
       <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="JP5" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="Q2" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="K1" pin="7" pintype="passive"/>
+      <node ref="K2" pin="14" pintype="passive"/>
     </net>
     <net code="51" name="Net-(JP3-Pad1)">
       <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
@@ -1567,149 +1928,157 @@
       <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="U22" pin="1" pinfunction="Vin" pintype="power_in"/>
     </net>
-    <net code="53" name="Net-(Q1-Pad2)">
-      <node ref="Q1" pin="2" pinfunction="G" pintype="input"/>
-      <node ref="R2" pin="2" pintype="passive"/>
-      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
-    </net>
-    <net code="54" name="Net-(Q2-Pad2)">
-      <node ref="Q2" pin="2" pinfunction="G" pintype="input"/>
-      <node ref="R1" pin="2" pintype="passive"/>
+    <net code="53" name="Net-(K1-Pad6)">
+      <node ref="K1" pin="6" pintype="passive"/>
       <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U2" pin="21" pinfunction="IO23" pintype="bidirectional"/>
     </net>
-    <net code="55" name="Net-(R4-Pad2)">
+    <net code="54" name="Net-(K1-Pad14)">
+      <node ref="K1" pin="14" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(K2-Pad1)">
+      <node ref="K2" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(K2-Pad2)">
+      <node ref="K2" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(R4-Pad2)">
       <node ref="R4" pin="2" pintype="passive"/>
       <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U4" pin="4" pinfunction="Vout" pintype="power_out"/>
       <node ref="U6" pin="8" pinfunction="IN+" pintype="input"/>
     </net>
-    <net code="56" name="Net-(R5-Pad2)">
+    <net code="59" name="Net-(R5-Pad2)">
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U5" pin="4" pinfunction="Vout" pintype="power_out"/>
       <node ref="U7" pin="8" pinfunction="IN+" pintype="input"/>
     </net>
-    <net code="57" name="Net-(R6-Pad2)">
+    <net code="60" name="Net-(R6-Pad2)">
       <node ref="R6" pin="2" pintype="passive"/>
       <node ref="TP11" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U10" pin="8" pinfunction="IN+" pintype="input"/>
       <node ref="U8" pin="4" pinfunction="Vout" pintype="power_out"/>
     </net>
-    <net code="58" name="Net-(R7-Pad2)">
+    <net code="61" name="Net-(R7-Pad2)">
       <node ref="R7" pin="2" pintype="passive"/>
       <node ref="TP12" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U11" pin="8" pinfunction="IN+" pintype="input"/>
       <node ref="U9" pin="4" pinfunction="Vout" pintype="power_out"/>
     </net>
-    <net code="59" name="Net-(R8-Pad2)">
+    <net code="62" name="Net-(R8-Pad2)">
       <node ref="R8" pin="2" pintype="passive"/>
       <node ref="TP13" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U12" pin="4" pinfunction="Vout" pintype="power_out"/>
       <node ref="U14" pin="8" pinfunction="IN+" pintype="input"/>
     </net>
-    <net code="60" name="Net-(R9-Pad2)">
+    <net code="63" name="Net-(R9-Pad2)">
       <node ref="R9" pin="2" pintype="passive"/>
       <node ref="TP14" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U13" pin="4" pinfunction="Vout" pintype="power_out"/>
       <node ref="U15" pin="8" pinfunction="IN+" pintype="input"/>
     </net>
-    <net code="61" name="Net-(R10-Pad2)">
+    <net code="64" name="Net-(R10-Pad2)">
       <node ref="R10" pin="2" pintype="passive"/>
       <node ref="TP15" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U16" pin="4" pinfunction="Vout" pintype="power_out"/>
       <node ref="U18" pin="8" pinfunction="IN+" pintype="input"/>
     </net>
-    <net code="62" name="Net-(R11-Pad2)">
+    <net code="65" name="Net-(R11-Pad2)">
       <node ref="R11" pin="2" pintype="passive"/>
       <node ref="TP16" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U17" pin="4" pinfunction="Vout" pintype="power_out"/>
       <node ref="U19" pin="8" pinfunction="IN+" pintype="input"/>
     </net>
-    <net code="63" name="Net-(R14-Pad2)">
+    <net code="66" name="Net-(R14-Pad2)">
       <node ref="R14" pin="2" pintype="passive"/>
       <node ref="TP17" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U20" pin="4" pinfunction="Vout" pintype="power_out"/>
       <node ref="U21" pin="8" pinfunction="IN+" pintype="input"/>
     </net>
-    <net code="64" name="Net-(R15-Pad2)">
+    <net code="67" name="Net-(R15-Pad2)">
       <node ref="R15" pin="2" pintype="passive"/>
       <node ref="TP18" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U22" pin="4" pinfunction="Vout" pintype="power_out"/>
       <node ref="U23" pin="8" pinfunction="IN+" pintype="input"/>
     </net>
-    <net code="65" name="unconnected-(J3-Pad2)">
+    <net code="68" name="unconnected-(J3-Pad2)">
       <node ref="J3" pin="2" pinfunction="D1-" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="66" name="unconnected-(J3-Pad3)">
+    <net code="69" name="unconnected-(J3-Pad3)">
       <node ref="J3" pin="3" pinfunction="D1+" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="67" name="unconnected-(J3-Pad6)">
+    <net code="70" name="unconnected-(J3-Pad6)">
       <node ref="J3" pin="6" pinfunction="D2-" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="68" name="unconnected-(J3-Pad7)">
+    <net code="71" name="unconnected-(J3-Pad7)">
       <node ref="J3" pin="7" pinfunction="D2+" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="69" name="unconnected-(J4-Pad2)">
+    <net code="72" name="unconnected-(J4-Pad2)">
       <node ref="J4" pin="2" pinfunction="D1-" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="70" name="unconnected-(J4-Pad3)">
+    <net code="73" name="unconnected-(J4-Pad3)">
       <node ref="J4" pin="3" pinfunction="D1+" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="71" name="unconnected-(J4-Pad6)">
+    <net code="74" name="unconnected-(J4-Pad6)">
       <node ref="J4" pin="6" pinfunction="D2-" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="72" name="unconnected-(J4-Pad7)">
+    <net code="75" name="unconnected-(J4-Pad7)">
       <node ref="J4" pin="7" pinfunction="D2+" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="73" name="unconnected-(J5-Pad2)">
+    <net code="76" name="unconnected-(J5-Pad2)">
       <node ref="J5" pin="2" pinfunction="D1-" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="74" name="unconnected-(J5-Pad3)">
+    <net code="77" name="unconnected-(J5-Pad3)">
       <node ref="J5" pin="3" pinfunction="D1+" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="75" name="unconnected-(J5-Pad6)">
+    <net code="78" name="unconnected-(J5-Pad6)">
       <node ref="J5" pin="6" pinfunction="D2-" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="76" name="unconnected-(J5-Pad7)">
+    <net code="79" name="unconnected-(J5-Pad7)">
       <node ref="J5" pin="7" pinfunction="D2+" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="77" name="unconnected-(J6-Pad2)">
+    <net code="80" name="unconnected-(J6-Pad2)">
       <node ref="J6" pin="2" pinfunction="D1-" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="78" name="unconnected-(J6-Pad3)">
+    <net code="81" name="unconnected-(J6-Pad3)">
       <node ref="J6" pin="3" pinfunction="D1+" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="79" name="unconnected-(J6-Pad6)">
+    <net code="82" name="unconnected-(J6-Pad6)">
       <node ref="J6" pin="6" pinfunction="D2-" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="80" name="unconnected-(J6-Pad7)">
+    <net code="83" name="unconnected-(J6-Pad7)">
       <node ref="J6" pin="7" pinfunction="D2+" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="81" name="unconnected-(J7-Pad1)">
+    <net code="84" name="unconnected-(J7-Pad1)">
       <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="82" name="unconnected-(U2-Pad20)">
+    <net code="85" name="unconnected-(U2-Pad20)">
       <node ref="U2" pin="20" pinfunction="GND3" pintype="power_in+no_connect"/>
     </net>
-    <net code="83" name="unconnected-(U2-Pad23)">
+    <net code="86" name="unconnected-(U2-Pad23)">
       <node ref="U2" pin="23" pinfunction="TXD0" pintype="output+no_connect"/>
     </net>
-    <net code="84" name="unconnected-(U2-Pad24)">
+    <net code="87" name="unconnected-(U2-Pad24)">
       <node ref="U2" pin="24" pinfunction="RXD0" pintype="input+no_connect"/>
     </net>
-    <net code="85" name="unconnected-(U24-Pad3)">
+    <net code="88" name="unconnected-(U24-Pad3)">
       <node ref="U24" pin="3" pinfunction="Alert" pintype="output+no_connect"/>
     </net>
-    <net code="86" name="unconnected-(U24-Pad5)">
+    <net code="89" name="unconnected-(U24-Pad5)">
       <node ref="U24" pin="5" pinfunction="A2" pintype="input+no_connect"/>
     </net>
-    <net code="87" name="unconnected-(U24-Pad6)">
+    <net code="90" name="unconnected-(U24-Pad6)">
       <node ref="U24" pin="6" pinfunction="A1" pintype="input+no_connect"/>
     </net>
-    <net code="88" name="unconnected-(U24-Pad7)">
+    <net code="91" name="unconnected-(U24-Pad7)">
       <node ref="U24" pin="7" pinfunction="A0" pintype="input+no_connect"/>
     </net>
   </nets>
