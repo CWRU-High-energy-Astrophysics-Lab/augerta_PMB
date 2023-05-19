@@ -265,7 +265,6 @@
     )
   )
 
-
   (junction (at 90.17 66.04) (diameter 0) (color 0 0 0 0)
     (uuid 144b114f-9546-486e-86fe-38d710d1b638)
   )
@@ -377,12 +376,6 @@
     (pin "2" (uuid 867ab071-f618-4d3c-84d6-1b6f004ca0b8))
     (instances
       (project "augertapowermanagement"
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/d5c042eb-cd47-48c3-844b-40b65757f1fb"
-          (reference "D3") (unit 1)
-        )
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/2ea1951a-8d94-4388-9f53-e36246b795f0"
-          (reference "D4") (unit 1)
-        )
         (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/025583f9-5b6b-4348-a7a6-735d8e7861a8"
           (reference "D5") (unit 1)
         )
@@ -427,12 +420,6 @@
     (pin "5" (uuid dac76d4c-8e14-4e74-96db-528cc65c055c))
     (instances
       (project "augertapowermanagement"
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/d5c042eb-cd47-48c3-844b-40b65757f1fb"
-          (reference "U16") (unit 1)
-        )
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/2ea1951a-8d94-4388-9f53-e36246b795f0"
-          (reference "U12") (unit 1)
-        )
         (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/025583f9-5b6b-4348-a7a6-735d8e7861a8"
           (reference "U8") (unit 1)
         )
@@ -474,12 +461,6 @@
     (pin "2" (uuid 00aedd42-2b4a-4710-9d44-31030f83396f))
     (instances
       (project "augertapowermanagement"
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/d5c042eb-cd47-48c3-844b-40b65757f1fb"
-          (reference "C3") (unit 1)
-        )
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/2ea1951a-8d94-4388-9f53-e36246b795f0"
-          (reference "C5") (unit 1)
-        )
         (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/025583f9-5b6b-4348-a7a6-735d8e7861a8"
           (reference "C7") (unit 1)
         )
@@ -520,12 +501,6 @@
     (pin "1" (uuid 91529d3b-3acb-462f-8eeb-ac8874edf52a))
     (instances
       (project "augertapowermanagement"
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/d5c042eb-cd47-48c3-844b-40b65757f1fb"
-          (reference "#PWR035") (unit 1)
-        )
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/2ea1951a-8d94-4388-9f53-e36246b795f0"
-          (reference "#PWR036") (unit 1)
-        )
         (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/025583f9-5b6b-4348-a7a6-735d8e7861a8"
           (reference "#PWR021") (unit 1)
         )
@@ -567,12 +542,6 @@
     (pin "2" (uuid 8c422b9d-8d49-4d75-9625-9c83017d4573))
     (instances
       (project "augertapowermanagement"
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/d5c042eb-cd47-48c3-844b-40b65757f1fb"
-          (reference "C1") (unit 1)
-        )
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/2ea1951a-8d94-4388-9f53-e36246b795f0"
-          (reference "C4") (unit 1)
-        )
         (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/025583f9-5b6b-4348-a7a6-735d8e7861a8"
           (reference "C6") (unit 1)
         )
@@ -614,12 +583,6 @@
     (pin "2" (uuid fbde0ee0-b939-4e1c-b8ae-c499706885d9))
     (instances
       (project "augertapowermanagement"
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/d5c042eb-cd47-48c3-844b-40b65757f1fb"
-          (reference "L1") (unit 1)
-        )
-        (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/2ea1951a-8d94-4388-9f53-e36246b795f0"
-          (reference "L2") (unit 1)
-        )
         (path "/65134029-dbd2-409a-85a8-13c2a33ff019/8a8c373f-9bc3-4cf7-8f41-4802da916698/025583f9-5b6b-4348-a7a6-735d8e7861a8"
           (reference "L3") (unit 1)
         )

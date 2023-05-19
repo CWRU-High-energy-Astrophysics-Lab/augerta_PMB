@@ -521,36 +521,36 @@
       "power_conversion"
     ],
     [
-      "d5c042eb-cd47-48c3-844b-40b65757f1fb",
-      "Regulator (5V, 3A)"
+      "e4d45fe7-e226-4690-a286-9f42772756d6",
+      "Regulator (Adjustable, 3A)2"
     ],
     [
-      "2ea1951a-8d94-4388-9f53-e36246b795f0",
-      "Regulator (5V, 3A)1"
+      "451521c0-ab86-4696-b84d-13dbb4123289",
+      "Regulator (Adjustable, 3A)3"
     ],
     [
-      "025583f9-5b6b-4348-a7a6-735d8e7861a8",
-      "Regulator (5V, 3A)2"
+      "89e07e38-b1ed-43f9-8e9c-7a14c90ca10f",
+      "Regulator (Adjustable, 3A)4"
     ],
     [
-      "9bff035f-a68b-4267-a08a-5085dafe0426",
-      "Regulator (5V, 3A)1"
+      "de991b54-ad18-483c-813d-cec50c0e7f08",
+      "Regulator (Adjustable, 3A)5"
     ],
     [
-      "01994e14-d260-4b9f-bb9f-ef3265e4ae0c",
-      "Regulator (5V, 3A)4"
+      "9fc57dff-34de-4be8-ac94-46f0542502b9",
+      "Regulator (Adjustable, 3A)6"
     ],
     [
-      "65569de2-075e-4984-a12b-a4d32bb1110a",
-      "Regulator (5V, 3A)5"
+      "4a33751b-4c7c-4c85-9e8b-31208fa33af8",
+      "Regulator (Adjustable, 3A)7"
     ],
     [
-      "59ea0a81-f5b6-4088-b72f-1a8c5d7d433d",
-      "Regulator (5V, 3A)6"
+      "0ec77ec0-727a-4498-9e42-0c6673e2d8e3",
+      "Regulator (Adjustable, 3A)8"
     ],
     [
-      "dcb71ebf-19d0-423a-8374-bf4a7b19227c",
-      "Regulator (5V, 3A)7"
+      "c1d33235-5a20-49be-9d25-1065bb655699",
+      "Regulator (Adjustable, 3A)9"
     ],
     [
       "bec42a31-6150-42f9-8274-dfa2aee70f8b",
@@ -559,6 +559,10 @@
     [
       "9b793ecd-4be5-4739-ae2c-a1b97bee1c46",
       "Regulator (Adjustable, 3A)1"
+    ],
+    [
+      "c41de77d-f207-4665-853d-3465d17eb4cd",
+      "Regulator (Adjustable, 3A)10"
     ]
   ],
   "text_variables": {}
