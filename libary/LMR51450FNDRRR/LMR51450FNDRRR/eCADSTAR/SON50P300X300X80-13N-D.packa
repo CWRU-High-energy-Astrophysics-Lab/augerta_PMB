@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LMR51450FNDRRR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-04-19-12:59:31)
+    (mountForm default
+        (footprintRef "SON50P300X300X80-13N-D")
+        (spec "System")
+    )
+)

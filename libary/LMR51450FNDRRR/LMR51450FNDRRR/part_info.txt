@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMR51450FNDRRR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=13
+Version=1.1
+Released=2023-04-19 12:59:30
+Downloaded=2023-05-22 23:15:41
+3D=Y

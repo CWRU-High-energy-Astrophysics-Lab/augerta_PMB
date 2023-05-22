@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "powermanagement")(type "KiCad")(uri "${KIPRJMOD}/powermanagement.kicad_sym")(options "")(descr ""))
   (lib (name "LMR514x0")(type "KiCad")(uri "${KIPRJMOD}/LMR514x0.kicad_sym")(options "")(descr ""))
+  (lib (name "LMR51450FNDRRR")(type "KiCad")(uri "${KIPRJMOD}/libary/LMR51450FNDRRR/LMR51450FNDRRR.kicad_sym")(options "")(descr ""))
 )

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMR51450FNDRRR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LMR51450FNDRRR" (!) = "", "SON50P300X300X80-13N-D", "Small Outline No-lead", "595-LMR51450FNDRRR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR51450FNDRRR?qs=rQFj71Wb1eVWWBj0Ni4OAA%3D%3D", "Switching Voltage Regulators 36-V, 5-A synchronous buck converter", "https://www.ti.com/lit/ds/symlink/lmr51450.pdf?ts=1681907573404&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLMR51450%252Fpart-details%252FLMR51450FNDRRR", "0.8 mm"
+END_PART
+
+END.
